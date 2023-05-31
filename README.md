@@ -1,0 +1,2 @@
+# parametrizador
+Gerenciador de Aplicações
